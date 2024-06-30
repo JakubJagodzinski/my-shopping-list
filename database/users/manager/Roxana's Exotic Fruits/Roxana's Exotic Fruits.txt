@@ -1,0 +1,43 @@
+Fruits;apple;99;4.99;PLN;1.0;kg
+Fruits;banana;99;2.99;PLN;1.0;kg
+Fruits;blackberry;99;17.99;PLN;1.0;kg
+Fruits;blueberry;99;15.99;PLN;1.0;kg
+Fruits;cherry;99;14.99;PLN;1.0;kg
+Fruits;grapes;99;11.99;PLN;1.0;kg
+Fruits;melon;99;5.99;PLN;1.0;kg
+Fruits;orange;99;5.99;PLN;1.0;kg
+Fruits;peach;99;12.99;PLN;1.0;kg
+Fruits;pear;99;6.99;PLN;1.0;kg
+Fruits;pineapple;99;8.99;PLN;1.0;kg
+Fruits;plum;99;7.99;PLN;1.0;kg
+Fruits;raspberry;99;19.99;PLN;1.0;kg
+Fruits;strawberry;99;9.99;PLN;1.0;kg
+
+Nuts & Seeds;almonds;99;15.99;PLN;500.0;g
+Nuts & Seeds;cashews;99;18.99;PLN;500.0;g
+Nuts & Seeds;chia seeds;99;10.99;PLN;500.0;g
+Nuts & Seeds;flax seeds;99;4.99;PLN;500.0;g
+Nuts & Seeds;hazelnuts;99;17.99;PLN;500.0;g
+Nuts & Seeds;pecans;99;19.99;PLN;500.0;g
+Nuts & Seeds;pistachios;99;22.99;PLN;500.0;g
+Nuts & Seeds;pumpkin seeds;99;6.99;PLN;500.0;g
+Nuts & Seeds;sunflower seeds;99;5.99;PLN;500.0;g
+Nuts & Seeds;walnuts;99;16.99;PLN;500.0;g
+
+Tropical Fruits;acai;99;7.99;PLN;1.0;kg
+Tropical Fruits;avocado;99;7.99;PLN;1.0;kg
+Tropical Fruits;cherimoya;99;6.99;PLN;1.0;kg
+Tropical Fruits;coconut;99;12.99;PLN;1.0;kg
+Tropical Fruits;dragon fruit;99;4.99;PLN;1.0;kg
+Tropical Fruits;jackfruit;99;6.99;PLN;1.0;kg
+Tropical Fruits;kiwano;99;8.99;PLN;1.0;kg
+Tropical Fruits;kiwi;99;4.99;PLN;1.0;kg
+Tropical Fruits;lychee;99;3.99;PLN;1.0;kg
+Tropical Fruits;mango;99;11.99;PLN;1.0;kg
+Tropical Fruits;papaya;99;7.99;PLN;1.0;kg
+Tropical Fruits;passion fruit;99;8.99;PLN;1.0;kg
+Tropical Fruits;quince;99;7.99;PLN;1.0;kg
+Tropical Fruits;rambutan;99;5.99;PLN;1.0;kg
+Tropical Fruits;soursop;99;4.99;PLN;1.0;kg
+Tropical Fruits;watermelon;99;4.99;PLN;1.0;kg
+

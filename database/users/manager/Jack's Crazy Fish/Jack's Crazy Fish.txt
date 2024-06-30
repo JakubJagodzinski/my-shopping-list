@@ -1,0 +1,63 @@
+Canned Seafood;canned anchovies;99;17.99;PLN;100.0;g
+Canned Seafood;canned crab meat;99;24.99;PLN;200.0;g
+Canned Seafood;canned mackerel;99;12.99;PLN;150.0;g
+Canned Seafood;canned octopus;99;29.99;PLN;200.0;g
+Canned Seafood;canned salmon;99;19.99;PLN;200.0;g
+Canned Seafood;canned sardines;99;9.99;PLN;125.0;g
+Canned Seafood;canned shrimp;99;22.99;PLN;200.0;g
+Canned Seafood;canned tuna;99;14.99;PLN;200.0;g
+
+Fresh Fish;bream;99;29.99;PLN;1.0;kg
+Fresh Fish;grouper;99;54.99;PLN;1.0;kg
+Fresh Fish;halibut;99;79.99;PLN;1.0;kg
+Fresh Fish;mackerel;99;24.99;PLN;1.0;kg
+Fresh Fish;red snapper;99;64.99;PLN;1.0;kg
+Fresh Fish;sea bass;99;69.99;PLN;1.0;kg
+Fresh Fish;sole;99;34.99;PLN;1.0;kg
+Fresh Fish;tilapia;99;19.99;PLN;1.0;kg
+
+Frozen Seafood;frozen clams;99;24.99;PLN;1.0;kg
+Frozen Seafood;frozen fish fillets;99;49.99;PLN;1.0;kg
+Frozen Seafood;frozen lobster tails;99;129.99;PLN;1.0;kg
+Frozen Seafood;frozen mussels;99;29.99;PLN;1.0;kg
+Frozen Seafood;frozen octopus;99;59.99;PLN;1.0;kg
+Frozen Seafood;frozen scallops;99;79.99;PLN;1.0;kg
+Frozen Seafood;frozen shrimp;99;69.99;PLN;1.0;kg
+Frozen Seafood;frozen squid;99;39.99;PLN;1.0;kg
+
+Seafood;cod;99;29.99;PLN;1.0;kg
+Seafood;crab;99;89.99;PLN;1.0;kg
+Seafood;haddock;99;35.99;PLN;1.0;kg
+Seafood;lobster;99;99.99;PLN;1.0;kg
+Seafood;salmon;99;59.99;PLN;1.0;kg
+Seafood;shrimp;99;79.99;PLN;1.0;kg
+Seafood;trout;99;39.99;PLN;1.0;kg
+Seafood;tuna;99;49.99;PLN;1.0;kg
+
+Shellfish;clams;99;19.99;PLN;1.0;kg
+Shellfish;cockles;99;22.99;PLN;1.0;kg
+Shellfish;crawfish;99;39.99;PLN;1.0;kg
+Shellfish;mussels;99;24.99;PLN;1.0;kg
+Shellfish;oysters;99;49.99;PLN;1.0;kg
+Shellfish;razor clams;99;29.99;PLN;1.0;kg
+Shellfish;scallops;99;89.99;PLN;1.0;kg
+Shellfish;whelks;99;21.99;PLN;1.0;kg
+
+Smoked & Cured;cured salmon (gravlax);99;99.99;PLN;1.0;kg
+Smoked & Cured;cured trout;99;89.99;PLN;1.0;kg
+Smoked & Cured;smoked eel;99;109.99;PLN;1.0;kg
+Smoked & Cured;smoked haddock;99;65.99;PLN;1.0;kg
+Smoked & Cured;smoked herring;99;45.99;PLN;1.0;kg
+Smoked & Cured;smoked mackerel;99;59.99;PLN;1.0;kg
+Smoked & Cured;smoked salmon;99;89.99;PLN;1.0;kg
+Smoked & Cured;smoked trout;99;79.99;PLN;1.0;kg
+
+Specialty Items;anchovy paste;99;19.99;PLN;100.0;g
+Specialty Items;caviar;99;299.99;PLN;100.0;g
+Specialty Items;fish roe;99;79.99;PLN;200.0;g
+Specialty Items;lobster bisque;99;49.99;PLN;500.0;ml
+Specialty Items;sea urchin;99;159.99;PLN;100.0;g
+Specialty Items;shrimp paste;99;29.99;PLN;200.0;g
+Specialty Items;smoked salmon pate;99;39.99;PLN;150.0;g
+Specialty Items;squid ink;99;99.99;PLN;100.0;ml
+

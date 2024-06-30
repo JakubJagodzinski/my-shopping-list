@@ -1,0 +1,37 @@
+Cocktail Ingredients;Angostura Bitters;99;34.99;PLN;200.0;ml
+Cocktail Ingredients;Coconut Cream;99;12.99;PLN;400.0;ml
+Cocktail Ingredients;Grenadine;99;19.99;PLN;500.0;ml
+Cocktail Ingredients;Maraschino Cherries;99;9.99;PLN;200.0;g
+Cocktail Ingredients;Mint Leaves;99;8.99;PLN;50.0;g
+Cocktail Ingredients;Simple Syrup;99;14.99;PLN;500.0;ml
+Cocktail Ingredients;Triple Sec;99;29.99;PLN;500.0;ml
+Cocktail Ingredients;Vermouth;99;39.99;PLN;750.0;ml
+
+Light Alcohols;Beer;99;4.99;PLN;500.0;ml
+Light Alcohols;Champagne;99;99.99;PLN;750.0;ml
+Light Alcohols;Cider;99;23.99;PLN;400.0;ml
+Light Alcohols;Mead;99;27.99;PLN;500.0;ml
+Light Alcohols;Prosecco;99;39.99;PLN;750.0;ml
+Light Alcohols;Sake;99;49.99;PLN;500.0;ml
+Light Alcohols;Soju;99;29.99;PLN;350.0;ml
+Light Alcohols;Wine;99;34.99;PLN;1.0;l
+
+Mixers;Cola;99;4.99;PLN;1.5;l
+Mixers;Cranberry Juice;99;6.99;PLN;1.0;l
+Mixers;Ginger Beer;99;6.99;PLN;1.0;l
+Mixers;Lemonade;99;6.99;PLN;1.5;l
+Mixers;Orange Juice;99;7.99;PLN;1.0;l
+Mixers;Pineapple Juice;99;8.99;PLN;1.0;l
+Mixers;Soda Water;99;3.99;PLN;1.0;l
+Mixers;Tonic Water;99;5.99;PLN;1.0;l
+
+Strong Alcohols;Absinthe;99;149.99;PLN;500.0;ml
+Strong Alcohols;Bacardi;99;89.99;PLN;1.0;l
+Strong Alcohols;Brandy;99;79.99;PLN;1.0;l
+Strong Alcohols;Gin;99;49.99;PLN;1.0;l
+Strong Alcohols;Pirate Rum;99;99.99;PLN;1.0;l
+Strong Alcohols;Russian Vodka;99;59.99;PLN;1.0;l
+Strong Alcohols;Spirit;99;79.99;PLN;1.0;l
+Strong Alcohols;Tequila;99;69.99;PLN;1.0;l
+Strong Alcohols;Whiskey;99;119.99;PLN;1.0;l
+

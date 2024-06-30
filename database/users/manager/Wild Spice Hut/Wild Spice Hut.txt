@@ -1,0 +1,66 @@
+Dried Herbs;dried basil;99;3.99;PLN;50.0;g
+Dried Herbs;dried cilantro;99;3.99;PLN;50.0;g
+Dried Herbs;dried dill;99;3.99;PLN;50.0;g
+Dried Herbs;dried mint;99;3.99;PLN;50.0;g
+Dried Herbs;dried oregano;99;3.99;PLN;50.0;g
+Dried Herbs;dried parsley;99;3.99;PLN;50.0;g
+Dried Herbs;dried rosemary;99;3.99;PLN;50.0;g
+Dried Herbs;dried sage;99;3.99;PLN;50.0;g
+Dried Herbs;dried tarragon;99;3.99;PLN;50.0;g
+Dried Herbs;dried thyme;99;3.99;PLN;50.0;g
+
+Essential Oils;chamomile oil;99;21.99;PLN;10.0;ml
+Essential Oils;clove oil;99;14.99;PLN;10.0;ml
+Essential Oils;eucalyptus oil;99;18.99;PLN;10.0;ml
+Essential Oils;frankincense oil;99;25.99;PLN;10.0;ml
+Essential Oils;geranium oil;99;19.49;PLN;10.0;ml
+Essential Oils;lavender oil;99;19.99;PLN;10.0;ml
+Essential Oils;lemon oil;99;15.99;PLN;10.0;ml
+Essential Oils;peppermint oil;99;17.99;PLN;10.0;ml
+Essential Oils;rosemary oil;99;17.49;PLN;10.0;ml
+Essential Oils;tea tree oil;99;16.99;PLN;10.0;ml
+
+Herbal Teas;chamomile tea;99;5.99;PLN;50.0;g
+Herbal Teas;ginger tea;99;4.99;PLN;50.0;g
+Herbal Teas;hibiscus tea;99;6.49;PLN;50.0;g
+Herbal Teas;lavender tea;99;6.99;PLN;50.0;g
+Herbal Teas;lemon balm tea;99;4.99;PLN;50.0;g
+Herbal Teas;lemongrass tea;99;5.49;PLN;50.0;g
+Herbal Teas;peppermint tea;99;5.99;PLN;50.0;g
+Herbal Teas;rose hip tea;99;5.49;PLN;50.0;g
+Herbal Teas;rosemary tea;99;4.99;PLN;50.0;g
+Herbal Teas;sage tea;99;4.99;PLN;50.0;g
+
+Herbs & Spices;basil;99;2.99;PLN;50.0;g
+Herbs & Spices;bay leaves;99;2.49;PLN;30.0;g
+Herbs & Spices;black pepper;99;3.99;PLN;50.0;g
+Herbs & Spices;cardamom;99;5.99;PLN;50.0;g
+Herbs & Spices;cinnamon;99;4.99;PLN;50.0;g
+Herbs & Spices;coriander;99;3.49;PLN;50.0;g
+Herbs & Spices;cumin;99;3.49;PLN;50.0;g
+Herbs & Spices;dill;99;2.49;PLN;50.0;g
+Herbs & Spices;fennel;99;3.99;PLN;50.0;g
+Herbs & Spices;garlic powder;99;4.49;PLN;50.0;g
+Herbs & Spices;ginger;99;3.99;PLN;50.0;g
+Herbs & Spices;mint;99;2.99;PLN;50.0;g
+Herbs & Spices;mustard seeds;99;3.49;PLN;50.0;g
+Herbs & Spices;nutmeg;99;4.99;PLN;50.0;g
+Herbs & Spices;oregano;99;2.99;PLN;50.0;g
+Herbs & Spices;paprika;99;3.49;PLN;50.0;g
+Herbs & Spices;rosemary;99;2.99;PLN;50.0;g
+Herbs & Spices;saffron;99;29.99;PLN;1.0;g
+Herbs & Spices;thyme;99;2.99;PLN;50.0;g
+Herbs & Spices;turmeric;99;3.99;PLN;50.0;g
+Herbs & Spices;vanilla beans;99;14.99;PLN;10.0;g
+
+Spice Blends;bbq seasoning;99;4.99;PLN;50.0;g
+Spice Blends;chili powder;99;4.99;PLN;50.0;g
+Spice Blends;curry powder;99;4.99;PLN;50.0;g
+Spice Blends;five spice powder;99;5.99;PLN;50.0;g
+Spice Blends;garam masala;99;5.99;PLN;50.0;g
+Spice Blends;herbes de provence;99;5.49;PLN;50.0;g
+Spice Blends;italian seasoning;99;4.99;PLN;50.0;g
+Spice Blends;pumpkin spice;99;5.49;PLN;50.0;g
+Spice Blends;taco seasoning;99;4.99;PLN;50.0;g
+Spice Blends;za'atar;99;5.49;PLN;50.0;g
+

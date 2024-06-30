@@ -1,0 +1,61 @@
+Cured & Smoked Meats;beef jerky;99;59.99;PLN;1.0;kg
+Cured & Smoked Meats;pancetta;99;44.99;PLN;1.0;kg
+Cured & Smoked Meats;pastrami;99;42.99;PLN;1.0;kg
+Cured & Smoked Meats;prosciutto;99;49.99;PLN;1.0;kg
+Cured & Smoked Meats;smoked bacon;99;45.99;PLN;1.0;kg
+Cured & Smoked Meats;smoked ham;99;39.99;PLN;1.0;kg
+Cured & Smoked Meats;smoked sausage;99;34.99;PLN;1.0;kg
+Cured & Smoked Meats;smoked turkey;99;37.99;PLN;1.0;kg
+
+Frozen Meats;frozen beef steak;99;44.99;PLN;1.0;kg
+Frozen Meats;frozen chicken breast;99;19.99;PLN;1.0;kg
+Frozen Meats;frozen duck breast;99;33.99;PLN;1.0;kg
+Frozen Meats;frozen lamb chops;99;39.99;PLN;1.0;kg
+Frozen Meats;frozen pork chops;99;28.99;PLN;1.0;kg
+Frozen Meats;frozen turkey breast;99;21.99;PLN;1.0;kg
+Frozen Meats;frozen venison steaks;99;47.99;PLN;1.0;kg
+
+Gourmet Meats;bison steak;99;99.99;PLN;1.0;kg
+Gourmet Meats;elk steak;99;89.99;PLN;1.0;kg
+Gourmet Meats;foie gras;99;299.99;PLN;500.0;g
+Gourmet Meats;iberico ham;99;599.99;PLN;1.0;kg
+Gourmet Meats;kangaroo meat;99;119.99;PLN;1.0;kg
+Gourmet Meats;kobe beef;99;599.99;PLN;1.0;kg
+Gourmet Meats;ostrich meat;99;129.99;PLN;1.0;kg
+Gourmet Meats;wagyu beef;99;499.99;PLN;1.0;kg
+
+Marinated Meats;bbq ribs;99;29.99;PLN;1.0;kg
+Marinated Meats;herb marinated lamb;99;34.99;PLN;1.0;kg
+Marinated Meats;honey glazed pork;99;31.99;PLN;1.0;kg
+Marinated Meats;jerk chicken;99;24.99;PLN;1.0;kg
+Marinated Meats;lemon garlic chicken;99;21.99;PLN;1.0;kg
+Marinated Meats;spicy beef;99;27.99;PLN;1.0;kg
+Marinated Meats;teriyaki chicken;99;22.99;PLN;1.0;kg
+
+Meat Products;bacon;99;41.99;PLN;1.0;kg
+Meat Products;black pudding;99;22.99;PLN;1.0;kg
+Meat Products;chicken nuggets;99;18.99;PLN;1.0;kg
+Meat Products;ham;99;35.99;PLN;1.0;kg
+Meat Products;meatball;99;28.99;PLN;1.0;kg
+Meat Products;salami;99;26.99;PLN;1.0;kg
+Meat Products;sausage;99;32.99;PLN;1.0;kg
+
+Pâtés & Terrines;chicken liver pâté;99;19.99;PLN;200.0;g
+Pâtés & Terrines;country pâté;99;18.99;PLN;200.0;g
+Pâtés & Terrines;duck liver pâté;99;24.99;PLN;200.0;g
+Pâtés & Terrines;goose liver pâté;99;39.99;PLN;200.0;g
+Pâtés & Terrines;pork terrine;99;21.99;PLN;200.0;g
+Pâtés & Terrines;rabbit terrine;99;29.99;PLN;200.0;g
+Pâtés & Terrines;venison pâté;99;34.99;PLN;200.0;g
+
+Raw Meat;chicken;99;7.99;PLN;1.0;kg
+Raw Meat;duck;99;25.99;PLN;1.0;kg
+Raw Meat;game meat;99;43.99;PLN;1.0;kg
+Raw Meat;goose;99;31.99;PLN;1.0;kg
+Raw Meat;lamb;99;24.99;PLN;1.0;kg
+Raw Meat;pork;99;34.99;PLN;1.0;kg
+Raw Meat;poultry;99;29.99;PLN;1.0;kg
+Raw Meat;rabbit;99;27.99;PLN;1.0;kg
+Raw Meat;turkey;99;12.99;PLN;1.0;kg
+Raw Meat;venison;99;37.99;PLN;1.0;kg
+

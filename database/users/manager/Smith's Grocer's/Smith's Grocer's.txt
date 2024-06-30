@@ -1,0 +1,82 @@
+Bakery;bagel;99;1.99;PLN;1.0;pc
+Bakery;bread;99;2.49;PLN;1.0;pc
+Bakery;croissant;99;2.99;PLN;1.0;pc
+Bakery;cupcake;99;3.49;PLN;1.0;pc
+Bakery;danish pastry;99;3.99;PLN;1.0;pc
+Bakery;donut;99;1.99;PLN;1.0;pc
+Bakery;muffin;99;3.49;PLN;1.0;pc
+Bakery;scone;99;2.49;PLN;1.0;pc
+
+Beverages;apple juice;99;6.99;PLN;750.0;ml
+Beverages;beer;99;4.99;PLN;330.0;ml
+Beverages;lemonade;99;7.99;PLN;1.0;l
+Beverages;orange juice;99;5.99;PLN;650.0;ml
+Beverages;sparkling water;99;2.99;PLN;1.0;l
+Beverages;sparkling water (glass);99;3.99;PLN;1.0;l
+Beverages;still water;99;1.99;PLN;1.0;l
+Beverages;still water (glass);99;2.99;PLN;1.0;l
+
+Dairy Products;butter;99;5.99;PLN;200.0;g
+Dairy Products;buttermilk;99;3.99;PLN;1.0;l
+Dairy Products;cheese;99;18.99;PLN;500.0;g
+Dairy Products;cheese sticks;99;4.99;PLN;200.0;g
+Dairy Products;cottage cheese;99;11.5;PLN;200.0;g
+Dairy Products;cream cheese;99;5.49;PLN;200.0;g
+Dairy Products;feta cheese;99;12.99;PLN;200.0;g
+Dairy Products;goat cheese;99;14.99;PLN;200.0;g
+Dairy Products;greek yogurt;99;5.99;PLN;150.0;g
+Dairy Products;milk;99;3.99;PLN;1.1;l
+Dairy Products;mozzarella;99;8.99;PLN;200.0;g
+Dairy Products;parmesan;99;24.99;PLN;200.0;g
+Dairy Products;ricotta;99;9.99;PLN;200.0;g
+Dairy Products;sour cream;99;4.99;PLN;200.0;g
+Dairy Products;whipped cream;99;6.99;PLN;250.0;ml
+Dairy Products;yogurt;99;2.99;PLN;150.0;g
+
+Fruits;apple;99;4.99;PLN;1.0;kg
+Fruits;banana;99;2.99;PLN;1.0;kg
+Fruits;grapes;99;11.99;PLN;1.0;kg
+Fruits;kiwi;99;7.99;PLN;1.0;kg
+Fruits;orange;99;5.99;PLN;1.0;kg
+Fruits;peach;99;12.99;PLN;1.0;kg
+Fruits;strawberry;99;9.99;PLN;1.0;kg
+Fruits;watermelon;99;4.99;PLN;1.0;kg
+
+Snacks;crackers;99;3.99;PLN;200.0;g
+Snacks;dried fruits;99;3.49;PLN;100.0;g
+Snacks;granola bars;99;3.99;PLN;50.0;g
+Snacks;nuts mix;99;6.99;PLN;200.0;g
+Snacks;popcorn;99;2.49;PLN;100.0;g
+Snacks;potato chips;99;2.49;PLN;100.0;g
+Snacks;pretzels;99;2.99;PLN;150.0;g
+Snacks;rice cakes;99;2.49;PLN;12.0;pc
+
+Sweets;chocolate;99;4.99;PLN;95.0;g
+Sweets;chocolate bar;99;2.99;PLN;35.0;g
+Sweets;cookies;99;5.99;PLN;200.0;g
+Sweets;cotton candy;99;4.99;PLN;150.0;g
+Sweets;fudge;99;6.49;PLN;100.0;g
+Sweets;gummy bears;99;2.99;PLN;100.0;g
+Sweets;hard candies;99;2.49;PLN;100.0;g
+Sweets;ice cream;99;12.99;PLN;500.0;ml
+Sweets;jellies;99;4.99;PLN;100.0;g
+Sweets;lollipop;99;1.49;PLN;1.0;pc
+Sweets;marshmallows;99;3.99;PLN;150.0;g
+Sweets;nougat;99;5.99;PLN;150.0;g
+Sweets;toffee;99;3.99;PLN;100.0;g
+
+Vegetables;broccoli;99;5.99;PLN;1.0;pc
+Vegetables;carrot;99;6.99;PLN;1.0;kg
+Vegetables;cauliflower;99;5.99;PLN;1.0;pc
+Vegetables;corn;99;6.99;PLN;1.0;kg
+Vegetables;cucumber;99;3.99;PLN;1.0;kg
+Vegetables;garlic;99;2.99;PLN;1.0;kg
+Vegetables;lettuce;99;4.99;PLN;1.0;pc
+Vegetables;onion;99;3.99;PLN;1.0;kg
+Vegetables;pepper;99;7.99;PLN;1.0;kg
+Vegetables;potato;99;3.99;PLN;1.0;kg
+Vegetables;pumpkin;99;4.99;PLN;1.0;kg
+Vegetables;radish;99;2.99;PLN;1.0;pc
+Vegetables;spinach;99;4.99;PLN;500.0;g
+Vegetables;tomato;99;6.99;PLN;1.0;kg
+

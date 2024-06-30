@@ -1,0 +1,36 @@
+Accessories;Drumsticks;40;49.99;PLN;1.0;set
+Accessories;Guitar Pick;99;5.99;PLN;10.0;pc
+Accessories;Guitar Strap;25;99.99;PLN;1.0;pc
+Accessories;Guitar Strings;50;35.99;PLN;1.0;pc
+Accessories;Metronome;20;149.99;PLN;1.0;pc
+Accessories;Microphone;10;299.99;PLN;1.0;pc
+Accessories;Music Stand;15;129.99;PLN;1.0;pc
+Accessories;Tuner;30;89.99;PLN;1.0;pc
+Accessories;Violin Strings;30;79.99;PLN;1.0;pc
+
+Books;History of Baroque;30;14.99;PLN;1.0;pc
+Books;History of Classical Music;30;14.99;PLN;1.0;pc
+Books;History of Jazz;30;14.99;PLN;1.0;pc
+Books;History of Modern Music;30;14.99;PLN;1.0;pc
+Books;History of Renaissance;30;14.99;PLN;1.0;pc
+
+CD Discs;Bob Dylan;29;87.99;PLN;1.0;pc
+CD Discs;Elvis Presley;15;69.99;PLN;1.0;pc
+CD Discs;Led Zeppelin;25;79.99;PLN;1.0;pc
+CD Discs;Metallica;20;69.99;PLN;1.0;pc
+CD Discs;Michael Jackson;25;89.99;PLN;1.0;pc
+CD Discs;Pat Metheny;15;69.99;PLN;1.0;pc
+CD Discs;Pink Floyd;20;79.99;PLN;1.0;pc
+CD Discs;Queen;20;89.99;PLN;1.0;pc
+CD Discs;The Beatles;30;99.99;PLN;1.0;pc
+
+Instruments;Cello;3;5999.99;PLN;1.0;pc
+Instruments;Drum Set;2;5999.99;PLN;1.0;pc
+Instruments;Electric Guitar;4;8999.99;PLN;1.0;pc
+Instruments;Flute;10;799.99;PLN;1.0;pc
+Instruments;Grand Piano;3;99999.99;PLN;1.0;pc
+Instruments;Saxophone;4;2999.99;PLN;1.0;pc
+Instruments;Trumpet;5;1999.99;PLN;1.0;pc
+Instruments;Ukulele;5;399.99;PLN;1.0;pc
+Instruments;Violin;3;4999.99;PLN;1.0;pc
+

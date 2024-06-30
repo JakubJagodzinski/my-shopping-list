@@ -1,0 +1,67 @@
+Bathroom Essentials;air freshener spray;99;4.29;PLN;400.0;ml
+Bathroom Essentials;bar soap;99;2.49;PLN;200.0;g
+Bathroom Essentials;bath mat;99;14.99;PLN;1.0;pc
+Bathroom Essentials;bath towel;99;19.99;PLN;1.0;pc
+Bathroom Essentials;body lotion;99;9.99;PLN;300.0;ml
+Bathroom Essentials;cosmetic organizer;99;6.49;PLN;1.0;pc
+Bathroom Essentials;hand soap;99;3.49;PLN;250.0;ml
+Bathroom Essentials;shampoo;99;7.99;PLN;500.0;ml
+Bathroom Essentials;toothbrush;99;2.49;PLN;1.0;pc
+Bathroom Essentials;toothpaste;99;5.99;PLN;100.0;ml
+
+Cleaning Supplies;bleach;99;3.99;PLN;1.0;l
+Cleaning Supplies;carpet cleaner;99;8.99;PLN;1.0;l
+Cleaning Supplies;cleaning brush;99;3.49;PLN;1.0;pc
+Cleaning Supplies;duster;99;4.49;PLN;1.0;pc
+Cleaning Supplies;floor cleaner;99;5.99;PLN;1.0;l
+Cleaning Supplies;rubber gloves;99;2.99;PLN;1.0;set
+Cleaning Supplies;sponge set;99;2.99;PLN;4.0;pc
+Cleaning Supplies;surface wipes;99;4.99;PLN;30.0;pc
+Cleaning Supplies;vacuum cleaner bags;99;14.99;PLN;5.0;pc
+Cleaning Supplies;window cleaner;99;4.49;PLN;500.0;ml
+
+Gardening Supplies;flower pots;99;8.49;PLN;2.0;pc
+Gardening Supplies;flower seeds;99;3.29;PLN;100.0;g
+Gardening Supplies;garden gloves;99;3.99;PLN;1.0;set
+Gardening Supplies;garden soil;99;5.99;PLN;10.0;kg
+Gardening Supplies;gardening tools;99;15.99;PLN;1.0;set
+Gardening Supplies;plant care accessories;99;4.79;PLN;1.0;set
+Gardening Supplies;plant fertilizer;99;6.99;PLN;1.0;l
+Gardening Supplies;potted plant;99;12.99;PLN;1.0;pc
+Gardening Supplies;watering can;99;7.99;PLN;1.0;pc
+
+Household;air freshener;99;5.99;PLN;250.0;ml
+Household;all-purpose cleaner;99;4.99;PLN;1.0;l
+Household;broom and dustpan set;99;12.99;PLN;1.0;set
+Household;dish soap;99;4.49;PLN;500.0;ml
+Household;dishwashing liquid;99;6.49;PLN;500.0;ml
+Household;disinfectant spray;99;8.99;PLN;400.0;ml
+Household;garbage bin;99;29.99;PLN;1.0;pc
+Household;glass cleaner;99;7.49;PLN;500.0;ml
+Household;kitchen towel;99;6.99;PLN;6.0;pc
+Household;laundry detergent;99;12.99;PLN;1.0;l
+Household;laundry fabric softener;99;9.99;PLN;1.0;l
+Household;mop;99;19.99;PLN;1.0;pc
+Household;paper towel;99;5.99;PLN;3.0;pc
+Household;toilet paper;99;9.99;PLN;6.0;pc
+Household;trash bag;99;8.99;PLN;20.0;pc
+
+Kitchen Essentials;chef's knife;99;12.99;PLN;1.0;pc
+Kitchen Essentials;cooking oil;99;6.99;PLN;1.0;l
+Kitchen Essentials;cutting board;99;8.99;PLN;1.0;pc
+Kitchen Essentials;kitchen scales;99;29.99;PLN;1.0;pc
+Kitchen Essentials;measuring cups;99;6.99;PLN;1.0;set
+Kitchen Essentials;mixing bowls;99;9.99;PLN;3.0;pc
+Kitchen Essentials;zip lock bags;99;4.99;PLN;50.0;pc
+
+Laundry Supplies;clothes hangers;99;6.99;PLN;10.0;pc
+Laundry Supplies;drying rack;99;19.99;PLN;1.0;pc
+Laundry Supplies;fabric freshener;99;5.99;PLN;250.0;ml
+Laundry Supplies;fabric stain remover;99;7.99;PLN;500.0;ml
+Laundry Supplies;fabric whitener;99;3.99;PLN;250.0;ml
+Laundry Supplies;iron;99;79.99;PLN;1.0;pc
+Laundry Supplies;ironing board;99;49.99;PLN;1.0;pc
+Laundry Supplies;laundry basket;99;14.99;PLN;1.0;pc
+Laundry Supplies;laundry pegs;99;2.99;PLN;24.0;pc
+Laundry Supplies;washing machine cleaner;99;4.99;PLN;250.0;ml
+

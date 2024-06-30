@@ -1,0 +1,42 @@
+Bakery;bagel;99;1.99;PLN;1.0;pc
+Bakery;biscotti;99;3.99;PLN;200.0;g
+Bakery;croissant;99;2.99;PLN;1.0;pc
+Bakery;cupcake;99;3.49;PLN;1.0;pc
+Bakery;danish pastry;99;3.49;PLN;1.0;pc
+Bakery;donut;99;1.99;PLN;1.0;pc
+Bakery;muffin;99;2.99;PLN;1.0;pc
+Bakery;scone;99;2.49;PLN;1.0;pc
+
+Beverages;apple juice;99;5.99;PLN;1.0;l
+Beverages;coconut water;99;5.49;PLN;500.0;ml
+Beverages;cola;99;3.49;PLN;330.0;ml
+Beverages;energy drink;99;4.99;PLN;250.0;ml
+Beverages;fruit punch;99;6.99;PLN;1.0;l
+Beverages;ginger ale;99;3.49;PLN;330.0;ml
+Beverages;iced tea;99;8.99;PLN;1.5;l
+Beverages;lemonade;99;7.99;PLN;1.5;l
+Beverages;milkshake;99;7.99;PLN;500.0;ml
+Beverages;orange soda;99;3.49;PLN;330.0;ml
+Beverages;root beer;99;3.49;PLN;330.0;ml
+Beverages;smoothie;99;8.99;PLN;350.0;ml
+Beverages;sparkling water;99;2.99;PLN;750.0;ml
+Beverages;tonic;99;3.99;PLN;500.0;ml
+
+Frozen;frozen berries;99;7.99;PLN;300.0;g
+Frozen;frozen pizza;99;12.99;PLN;400.0;g
+Frozen;frozen yogurt;99;8.99;PLN;500.0;ml
+Frozen;ice pops;99;5.99;PLN;6.0;pc
+
+Snacks;beef jerky;99;14.99;PLN;100.0;g
+Snacks;crackers;99;3.99;PLN;200.0;g
+Snacks;dried fruits;99;3.49;PLN;100.0;g
+Snacks;granola bars;99;3.99;PLN;50.0;g
+Snacks;nuts mix;99;6.99;PLN;200.0;g
+Snacks;peanut butter cups;99;4.99;PLN;150.0;g
+Snacks;popcorn;99;2.49;PLN;100.0;g
+Snacks;potato chips;99;2.49;PLN;100.0;g
+Snacks;pretzels;99;2.99;PLN;150.0;g
+Snacks;rice cakes;99;2.49;PLN;12.0;pc
+Snacks;seaweed snacks;99;5.49;PLN;50.0;g
+Snacks;trail mix;99;7.99;PLN;200.0;g
+

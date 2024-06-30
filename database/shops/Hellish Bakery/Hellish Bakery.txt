@@ -1,0 +1,61 @@
+Baked Goods;bagel;99;1.99;PLN;1.0;pc
+Baked Goods;baguette;99;4.99;PLN;250.0;g
+Baked Goods;bread;99;2.49;PLN;1.0;pc
+Baked Goods;brioche;99;7.99;PLN;400.0;g
+Baked Goods;ciabatta;99;6.99;PLN;500.0;g
+Baked Goods;croissant;99;2.99;PLN;1.0;pc
+Baked Goods;cupcake;99;3.49;PLN;1.0;pc
+Baked Goods;danish pastry;99;3.99;PLN;1.0;pc
+Baked Goods;donut;99;1.99;PLN;1.0;pc
+Baked Goods;focaccia;99;8.99;PLN;500.0;g
+Baked Goods;muffin;99;3.49;PLN;1.0;pc
+Baked Goods;pita bread;99;5.99;PLN;300.0;g
+Baked Goods;rye bread;99;6.99;PLN;500.0;g
+Baked Goods;scone;99;2.49;PLN;1.0;pc
+Baked Goods;sourdough bread;99;9.99;PLN;600.0;g
+Baked Goods;whole wheat bread;99;5.99;PLN;500.0;g
+
+Cakes;black forest cake;99;32.99;PLN;1.0;kg
+Cakes;carrot cake;99;28.99;PLN;1.0;kg
+Cakes;cheesecake;99;34.99;PLN;1.0;kg
+Cakes;chocolate cake;99;29.99;PLN;1.0;kg
+Cakes;coffee cake;99;29.99;PLN;1.0;kg
+Cakes;fruit cake;99;30.99;PLN;1.0;kg
+Cakes;lemon drizzle cake;99;27.99;PLN;1.0;kg
+Cakes;red velvet cake;99;31.99;PLN;1.0;kg
+Cakes;strawberry shortcake;99;33.99;PLN;1.0;kg
+Cakes;tiramisu;99;35.99;PLN;1.0;kg
+
+Cookies;chocolate chip cookies;99;2.99;PLN;1.0;pc
+Cookies;gingerbread cookies;99;2.79;PLN;1.0;pc
+Cookies;linzer cookies;99;3.79;PLN;1.0;pc
+Cookies;macaroons;99;1.99;PLN;1.0;pc
+Cookies;oatmeal raisin cookies;99;2.49;PLN;1.0;pc
+Cookies;peanut butter cookies;99;2.99;PLN;1.0;pc
+Cookies;shortbread cookies;99;3.49;PLN;1.0;pc
+Cookies;snicker doodle cookies;99;2.89;PLN;1.0;pc
+Cookies;sugar cookies;99;2.19;PLN;1.0;pc
+Cookies;thumbprint cookies;99;2.99;PLN;1.0;pc
+
+Pastries;baklava;99;5.49;PLN;100.0;g
+Pastries;cannoli;99;3.99;PLN;1.0;pc
+Pastries;chocolate tart;99;5.49;PLN;1.0;pc
+Pastries;cream puff;99;4.49;PLN;1.0;pc
+Pastries;eclair;99;3.99;PLN;1.0;pc
+Pastries;fruit tart;99;4.99;PLN;1.0;pc
+Pastries;lemon tart;99;4.99;PLN;1.0;pc
+Pastries;macaroon;99;1.99;PLN;1.0;pc
+Pastries;strudel;99;4.99;PLN;1.0;pc
+Pastries;tart;99;3.99;PLN;1.0;pc
+
+Savory Baked Goods;cheese bread;99;4.99;PLN;200.0;g
+Savory Baked Goods;cheese stick;99;3.49;PLN;1.0;pc
+Savory Baked Goods;garlic bread;99;3.99;PLN;250.0;g
+Savory Baked Goods;herb bread;99;3.99;PLN;250.0;g
+Savory Baked Goods;meat pie;99;7.99;PLN;1.0;pc
+Savory Baked Goods;pizza bread;99;5.49;PLN;300.0;g
+Savory Baked Goods;quiche;99;6.99;PLN;1.0;pc
+Savory Baked Goods;sausage roll;99;3.99;PLN;1.0;pc
+Savory Baked Goods;spinach pastry;99;4.49;PLN;1.0;pc
+Savory Baked Goods;stuffed bread;99;5.99;PLN;300.0;g
+
