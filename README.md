@@ -56,3 +56,5 @@ Shop manager can:
 1. Clone repository.
 2. Compile and run server application first.
 3. Compile and run client applocations.
+
+There is an example shop manager account with few created shops in the database for the showcase.
