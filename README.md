@@ -1,8 +1,19 @@
 # My Shopping List v. 1.0.0
-My Shopping List application allows users to manage their shopping lists content from shops registered in the system as a customer or manage their shops assortment as a shop manager. 
+My Shopping List client-server application allows users to manage their shopping lists content from shops registered in the system as a customer or manage their shops assortment as a shop manager. 
 User needs to create account first by specifying their username, password and account type.
 If customer account is chosen, user will be able to choose shop registered in the database and create shopping list in it. He can add products available in the shop to their list, share list with other users, clone, and delete them.
+You can run multiple client applications at the same time and edit shared lists in real time.
 If shop manager account is chosen, user will be able to create shops, add products in different categories and change their quantity.
+
+# Server application commands
+- help - prints available server commands
+- time - shows server launch and working time
+- clients - prints active clients connections
+- users - prints logged in users data
+- shops - prints shops loaded to server memory
+- lists - prints customer lists loaded to server memory
+- info - prints software info
+- shutdown - shuts down the server
 
 # Client application features
 Both customer and shop manager can:
@@ -39,4 +50,9 @@ Shop manager can:
 -	Save shop state to local shop database;
 -	Reload shop state from local shop database;
 -	Push shop state to public shop database;
--	Reload shop state from public shop database;
+-	Reload shop state from public shop database.
+
+# Run instruction
+1. Clone repository.
+2. Compile and run server application first.
+3. Compile and run client applocations.
